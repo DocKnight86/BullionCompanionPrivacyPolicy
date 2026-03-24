@@ -1,1 +1,11 @@
-
+{
+  "source": "github-actions",
+  "updated_at_utc": "2026-03-24T12:00:00Z",
+  "ttl_minutes": 15,
+  "prices": {
+    "gold": 3035.12,
+    "silver": 33.44,
+    "platinum": 1001.55,
+    "palladium": 958.2
+  }
+}
