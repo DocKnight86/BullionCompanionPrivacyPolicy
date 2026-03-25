@@ -1,11 +1,11 @@
 {
   "source": "github-actions",
-  "updated_at_utc": "2026-03-25T04:26:27Z",
+  "updated_at_utc": "2026-03-25T10:56:44Z",
   "ttl_minutes": 15,
   "prices": {
-    "gold": 4573.71,
-    "silver": 73.58,
-    "platinum": 1975.37,
-    "palladium": 1459.56
+    "gold": 4559.97,
+    "silver": 73.0,
+    "platinum": 1972.59,
+    "palladium": 1462.72
   }
 }
